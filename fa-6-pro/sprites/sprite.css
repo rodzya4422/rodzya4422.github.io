@@ -3,7 +3,7 @@ button#selectAnswer:before {
     content: '\f9ec';
     width: 25px;
 }
-button#selectAnswer {
+button#selectAnswer { 
     border: 1px solid transparent;
     border-color: #963883 #7e2d6d #7e2d6d #963883;
 }
