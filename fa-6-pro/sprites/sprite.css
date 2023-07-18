@@ -5,7 +5,7 @@ button#selectAnswer:before {
 }
 button#selectAnswer {
     border: 1px solid transparent;
-    border-color: #c72a2a #9c2121 #9c2121 #c72a2a;
+    border-color: #963883 #7e2d6d #7e2d6d #963883;
 }
 .button.button--icon--preview>.button-text:before, a.button.button--icon--preview>.button-text:before {
 	font-size: large;
@@ -26,7 +26,7 @@ button#xf-preview-shilkin:before {
 div#select_prefix {
     margin-top: 15px;
     padding-top: 15px;
-    border-top: 1px solid #c72a2a;
+    border-top: 1px solid #7e2d6d ;
 }
 .button.button--primary.panelButton {
     width: 213px;
@@ -41,7 +41,7 @@ div#select_prefix {
 .button.button--link.menuButton {
     color: #e0e6f0;
 	border: 1px solid transparent;
-    border-color: #c72a2a #9c2121 #9c2121 #c72a2a;
+    border-color: #963883 #7e2d6d #7e2d6d #963883;
     width: 172.4px;
 }
 .button.button--link.menuButton:before {
